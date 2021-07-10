@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">web view</string>
+    <string name="searchurl">Search or Enter URL</string>
+</resources>
